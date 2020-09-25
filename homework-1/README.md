@@ -7,12 +7,12 @@ Domain : Blockchain and Cryptocurrencies
 * Name of company
 
 Coinbase : an open financial system of the world who is totally independent and not controlled by any one country or company.
-****Coinbase is a digital currency wallet service that allows traders to buy and sell bitcoin(Bitcoin is a cryptocurrency invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto and started in 2009 when its implementation was released as open-source software).
+
 
 * When was the company incorporated?
 
 In June, 2012 Coinbase  (a digital currency exchange) headquartered in San Francisco, California. 
-***They broker exchanges of Bitcoin, Bitcoin Cash, Ethereum, Ethereum Classic, Litecoin, Tezos, and many others, with fiat currencies in approximately 32 countries, and bitcoin transactions and storage in 190 countries worldwide.
+
 
 
 * Who are the founders of the company?
@@ -68,7 +68,7 @@ Coinbase's top competitors include River Financial, OST.com, Blockchain, Binance
 
 https://craft.co/coinbase/competitors
 
-………..
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 

@@ -1,0 +1,19 @@
+Write a short description about what the wallet does, what is is built with, and how to use it.
+
+In this H/W I created a wallet python file which derived the function for multiple coins ETH and BTC to send the transaction to different users addresses.
+I created another two functions - create transcation and  send transaction for teh main purpose of this homework.
+create transcation is the raw, unsigned transaction that contains all metadata needed to transact.
+send trasaction call create transaction, sign the transaction, then send it to the designated network.
+
+
+
+Include installing pip dependencies using requirements.txt, as well as cloning and installing hd-wallet-derive.
+You may include the hd-wallet-derive folder in your repo, but still include the install instructions. You do not
+need to include Python or PHP installation instructions.
+
+attached screenshots for all dependencies insatllation i did for this homework.
+
+
+
+
+
